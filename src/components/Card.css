@@ -1,0 +1,22 @@
+
+h2 {
+	font-size: 100%;
+	background: black;
+	color: white;
+	width: 100%;
+	color: yellow;
+}
+h3 {
+	background: yellow;
+	text-transform: uppercase;
+}
+
+p {
+	background: yellow;
+	font-weight: bold;
+}
+img {
+	width: 200px;
+}
+
+
