@@ -1,4 +1,4 @@
-# myfirstreact_app
+# robofriends: a nice user id facelift random builder.
 
 1. Clone this repo
 2. Run npm install
